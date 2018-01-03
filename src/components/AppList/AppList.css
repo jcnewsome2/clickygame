@@ -1,0 +1,20 @@
+.app-list {
+    justify-content: space-around;
+    align-content: space-around;
+    column-count: 4;
+}
+
+.app-list > * {
+    flex: 100%;
+}
+
+.app-list img {
+    max-height: 100%;
+    max-width: 250px;
+
+}
+
+
+ul{
+    list-style: none;
+}
